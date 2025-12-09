@@ -1,0 +1,200 @@
+﻿<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Müştəri Proqramlaşdırma</title>
+    <style>
+      
+
+        body {
+            background-color: #f5f6fa;
+            color: #333;
+            margin-top: 120px;
+        }
+
+        .course-detail {
+           
+            max-width: 72%;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .course-header h1 {
+            font-size: 2.5rem;
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 0.5rem;
+            animation: fadeIn 1s ease-in;
+        }
+
+        .course-header p {
+            text-align: center;
+            font-size: 1.2rem;
+            color: #7f8c8d;
+            margin-bottom: 2rem;
+            animation: fadeIn 1.5s ease-in;
+        }
+
+        .lessons h2, .course-video h2, .classroom-section h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #34495e;
+            text-align: center;
+            animation: fadeIn 2s ease-in;
+        }
+
+        .lesson-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 2rem;
+            margin-bottom: 50px;
+        }
+
+        .lesson-card {
+            background: #ecf0f1;
+            padding: 1.5rem;
+            border-radius: 12px;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s, background 0.3s;
+            cursor: pointer;
+            animation: fadeInUp 1s ease-in;
+        }
+
+            .lesson-card:hover {
+                transform: translateY(-10px);
+                box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+                background: #dfe6e9;
+            }
+
+            .lesson-card img {
+                width: 80px;
+                margin-bottom: 1rem;
+            }
+
+        .classroom-section {
+            background-color: #f5f6fa;
+            padding: 50px 0;
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+            .classroom-section p {
+                color: #666;
+                margin-bottom: 30px;
+            }
+
+        .classroom-gallery {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+            .classroom-gallery img {
+                width: 250px;
+                height: 150px;
+                object-fit: cover;
+                border-radius: 10px;
+                box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+                transition: transform 0.3s, box-shadow 0.3s;
+            }
+
+                .classroom-gallery img:hover {
+                    transform: scale(1.05);
+                    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+                }
+
+        .course-video video {
+            width: 100%;
+            border-radius: 12px;
+            margin-top: 1rem;
+            animation: fadeIn 2s ease-in;
+        }
+
+        /* Animations */
+       keyframes fadeIn {
+            from
+
+        {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+
+        }
+
+       keyframes fadeInUp {
+            from
+
+        {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        }
+    </style>
+</head>
+<body>
+
+    <section class="course-detail">
+        <div class="course-header">
+            <h1>Müştəri Proqramlaşdırma</h1>
+            <p>Bu kursda tələbələr proqramlaşdırmanın əsas prinsiplərini öyrənəcək, real layihələr üzərində işləyəcəklər.</p>
+        </div>
+
+        <div class="lessons">
+            <h2>Dərs mövzuları</h2>
+            <div class="lesson-grid">
+                <div class="lesson-card">
+                    <img src="images/html_icon.png" alt="HTML">
+                    <h3>HTML əsasları</h3>
+                    <p>Veb səhifələrin quruluşu və semantik elementlər.</p>
+                </div>
+                <div class="lesson-card">
+                    <img src="images/css_icon.png" alt="CSS">
+                    <h3>CSS ilə dizayn</h3>
+                    <p>Stil vermə, Flexbox, Grid və animasiyalar.</p>
+                </div>
+                <div class="lesson-card">
+                    <img src="images/js_icon.png" alt="JS">
+                    <h3>JavaScript Əsasları</h3>
+                    <p>Dəyişənlər, funksiyalar, döngülər və DOM manipulyasiyası.</p>
+                </div>
+                <div class="lesson-card">
+                    <img src="images/react_icon.png" alt="React">
+                    <h3>React ilə interaktiv UI</h3>
+                    <p>Komponentlər, props, state və useEffect hookları.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sinif Otağı Section -->
+        <section class="classroom-section">
+            <h2>Sinif Otağı</h2>
+            <p>Burada dərs zamanı sinifdəki şəkillər göstəriləcək:</p>
+            <div class="classroom-gallery">
+                <img src="sekil1.jpg" alt="Sinif Şəkli 1">
+                <img src="sekil2.jpg" alt="Sinif Şəkli 2">
+                <img src="sekil3.jpg" alt="Sinif Şəkli 3">
+            </div>
+        </section>
+
+        <div class="course-video">
+            <h2>Tələbə təcrübəsi</h2>
+            <video controls>
+                <source src="videos/student_demo.mp4" type="video/mp4">
+                Sizin brauzer video dəstəkləmir.
+            </video>
+        </div>
+    </section>
+
+</body>
+</html>

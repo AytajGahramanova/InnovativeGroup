@@ -1,0 +1,51 @@
+﻿@model IEnumerable<EllinMMCProject.Models.Course>
+
+@{
+    ViewData["Title"] = "Kurslar Siyahısı";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-bordered table-striped mt-3">
+    <thead class="table-dark">
+        <tr>
+            <th>#</th>
+            <th>Başlıq</th>
+            <th>Təsvir</th>
+            <th>Mövzu sayı</th>
+            <th>Şəkil sayı</th>
+            <th>Video sayı</th>
+            <th>Əməliyyatlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            int index = 1;
+            foreach (var course in Model)
+            {
+                <tr>
+                    <td>@index</td>
+                    <td>@course.Title</td>
+                    <td>@course.Description</td>
+                    <td>@course.Topics.Count</td>
+                    <td>@course.Images.Count</td>
+                    <td>@course.Videos.Count</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@course.Id" class="btn btn-sm btn-primary">Düzəliş</a>
+                        <a asp-action="Delete" asp-route-id="@course.Id" class="btn btn-sm btn-danger">Sil</a>
+                    </td>
+                </tr>
+                index++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7" class="text-center">Hələ heç bir kurs yoxdur</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-success mt-3">Create New Course</a>

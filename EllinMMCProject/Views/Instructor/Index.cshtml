@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewData["Title"] = "Müəllimlər";
+}
+
+
+@model List<Trainer>
+
+<!-- Page Header -->
+<section class="page-header">
+    <div class="container">
+        <h1>Təlimçilər</h1>
+        <p>Təcrübəli və peşəkar təlimçi heyətimiz</p>
+    </div>
+</section>
+
+<!-- Instructors Grid -->
+<section class="instructors-section">
+    <div class="container">
+        <div class="instructors-grid">
+
+
+            @foreach (Trainer item in Model)
+            {
+                <div class="instructor-card">
+                    <div class="instructor-image">
+                        <img src="@item.Image" alt="@item.Name">
+                    </div>
+                    <div class="instructor-info">
+                        <h3>@item.Name</h3>
+                        <p class="instructor-title">@item.Positions</p>
+                        <div class="instructor-skills">
+
+                          @foreach (var topic in item.TrainerTopics)
+                            {
+                                <div class="skill-tag">@topic.Title</div>
+                            }
+                          
+                        </div>
+                        <p class="instructor-bio">@item.Sitat</p>
+                    </div>
+                </div>
+            }
+          
+
+
+        </div>
+    </div>
+</section>
+
+<!-- Join Team Section -->
+<section class="join-team-section">
+    <div class="container">
+        <div class="join-content">
+            <h2>Komandamıza Qoşulun</h2>
+            <p>Təcrübəli mütəxəssissiniz və təlim sahəsində çalışmaq istəyirsiniz? Bizə müraciət edin!</p>
+            <div class="requirements">
+                <h3>Tələblər:</h3>
+                <ul>
+                    <li>Sahə üzrə minimum 3 il təcrübə</li>
+                    <li>Təlim vermək bacarığı</li>
+                    <li>Komanda işi bacarığı</li>
+                    <li>Azərbaycan və ingilis dillərini bilmək</li>
+                </ul>
+            </div>
+            <a href="elaqe.html" class="btn-primary">CV Göndər</a>
+        </div>
+    </div>
+</section>
+

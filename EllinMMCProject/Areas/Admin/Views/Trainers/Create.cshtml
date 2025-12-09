@@ -1,0 +1,75 @@
+﻿@model EllinMMCProject.Models.Trainer
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+<div class="container mt-5">
+    <h2>Create Trainer</h2>
+    <form asp-action="Create" method="post">
+        <div class="mb-3">
+            <label class="form-label">Name</label>
+            <input name="Name" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Positions</label>
+            <input name="Positions" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Image URL</label>
+            <input name="Image" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Sitat</label>
+            <input name="Sitat" class="form-control" />
+        </div>
+
+        <h4>Topics</h4>
+        <div id="topics-container">
+            <div class="input-group mb-2 topic-input">
+                <input name="Topics[0]" class="form-control" placeholder="Enter topic" />
+                <button type="button" class="btn btn-success btn-add-topic">+</button>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-3">Save Trainer</button>
+    </form>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        let index = 1;
+
+        document.addEventListener("click", function (e) {
+            // + düyməsi
+            if (e.target.classList.contains("btn-add-topic")) {
+                e.preventDefault();
+                const container = document.getElementById("topics-container");
+
+                const newInput = document.createElement("div");
+                newInput.classList.add("input-group", "mb-2", "topic-input");
+
+                newInput.innerHTML = `
+                    <input name="Topics[${index}]" class="form-control" placeholder="Enter topic" />
+                    <button type="button" class="btn btn-danger btn-remove-topic">-</button>
+                `;
+                container.appendChild(newInput);
+                index++;
+            }
+
+            // - düyməsi
+            if (e.target.classList.contains("btn-remove-topic")) {
+                e.preventDefault();
+                e.target.closest(".topic-input").remove();
+            }
+        });
+    });
+</script>

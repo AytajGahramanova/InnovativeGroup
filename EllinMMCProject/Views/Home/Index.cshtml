@@ -1,0 +1,181 @@
+﻿@using EllinMMCProject.ViewModels
+@{
+    ViewData["Title"] = "Ana səhifə";
+}
+
+@model HomeVM
+
+<!--Slider Section start-->
+<section class="slider-section">
+    <div class="swiper">
+        <div class="swiper-wrapper">
+            @foreach (var item in Model.sliders)
+            {
+                <div class="swiper-slide slide1"
+                     style="background-image:url('@Url.Content(item.Image)');">
+                </div>
+            }
+           
+
+            
+        </div>
+
+        <!-- Pagination nöqtələri -->
+        <div class="swiper-pagination"></div>
+    </div>
+</section>
+
+<!--Slider Section end-->
+<!-- Courses Section -->
+<section class="courses-section">
+    <div class="container">
+        <div class="section-header">
+            <h2>Təlimlərimiz</h2>
+            <p>Müxtəlif sahələrdə peşəkar təlimlər</p>
+        </div>
+        <div class="courses-grid">
+            @foreach (var course in Model.courses)
+            {
+                <div class="course-card">
+                    <div class="course-image">
+                        <a href="@Url.Action("Detail", "Home", new { id = course.Id })">
+                            <img src="@course.Image" alt="@course.Title" />
+                        </a>
+                      
+                    </div>
+                    <div class="course-content">
+                        <h3>@course.Title</h3>
+                        <p>@course.Description</p>
+                        <a href="@Url.Action("Detail", "Home", new {id = course.Id })" class="course-link">
+                            Ətraflı <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<!-- Statistics Section -->
+<section class="stats-section">
+    <div class="container">
+        <div class="stats-grid">
+            @foreach (var item in Model.stations)
+            {
+                <div class="stat-item">
+                    <div class="stat-icon">
+                        <i class="@item.Icon"></i>
+                    </div>
+                    <div class="stat-number" data-target="@item.StatNumber">0</div>
+                    <div class="stat-label">@item.Title</div>
+                </div>
+            }
+           
+           
+        </div>
+    </div>
+</section>
+
+<!-- Graduates Section -->
+<section class="graduates-section">
+    <div class="container">
+        <div class="section-header">
+            <h2>Məzunlarımız</h2>
+            <p>Uğurlu karyera quran məzunlarımızın təcrübələri</p>
+        </div>
+        <div class="testimonials-grid">
+            @foreach (var item in Model.graduate)
+            {
+                <div class="testimonial-card">
+                    <div class="testimonial-content">
+                        <p>
+                           @item.Description
+                        </p>
+                    </div>
+                    <div class="testimonial-author">
+                        <img src="@item.Image" alt="@item.Name" />
+                        <div class="author-info">
+                            <h4>@item.Position</h4>
+                            <span>@item.Name</span>
+                        </div>
+                    </div>
+                </div>
+            }
+           
+            
+        </div>
+    </div>
+</section>
+
+<!-- Advantages Section -->
+<section class="advantages-section">
+    <div class="container">
+        <div class="section-header">
+            <h2>Üstünlüklərimiz</h2>
+            <p>Niyə EllinMMC-ni seçməlisiniz?</p>
+        </div>
+        <div class="advantages-grid">
+            <div class="advantage-item">
+                <div class="advantage-icon">
+                    <i class="fas fa-certificate"></i>
+                </div>
+                <h3>Sertifikatlaşdırma</h3>
+                <p>Dövlət tərəfindən tanınan sertifikatlar</p>
+            </div>
+            <div class="advantage-item">
+                <div class="advantage-icon">
+                    <i class="fas fa-users-cog"></i>
+                </div>
+                <h3>Təcrübəli Təlimçilər</h3>
+                <p>Sahə üzrə mütəxəssis təlimçilər</p>
+            </div>
+            <div class="advantage-item">
+                <div class="advantage-icon">
+                    <i class="fas fa-laptop"></i>
+                </div>
+                <h3>Müasir Avadanlıq</h3>
+                <p>Ən son texnologiyalar və avadanlıqlar</p>
+            </div>
+            <div class="advantage-item">
+                <div class="advantage-icon">
+                    <i class="fas fa-handshake"></i>
+                </div>
+                <h3>İş Təminatı</h3>
+                <p>Məzunlar üçün iş yerləşdirmə dəstəyi</p>
+            </div>
+            <div class="advantage-item">
+                <div class="advantage-icon">
+                    <i class="fas fa-clock"></i>
+                </div>
+                <h3>Çevik Qrafik</h3>
+                <p>Həftə içi və həftə sonu təlim imkanları</p>
+            </div>
+            <div class="advantage-item">
+                <div class="advantage-icon">
+                    <i class="fas fa-money-bill-wave"></i>
+                </div>
+                <h3>Əlverişli Qiymət</h3>
+                <p>Keyfiyyətli təhsil, münasib qiymətlə</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+                    @section Scripts{
+                        
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+<script>
+    const swiper = new Swiper(".swiper", {
+      effect: "fade",
+      loop: true,
+      pagination: { el: ".swiper-pagination", clickable: true },
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+      autoplay: { delay: 5000, disableOnInteraction: false },
+      fadeEffect: { crossFade: true },
+    });
+</script>
+                    }

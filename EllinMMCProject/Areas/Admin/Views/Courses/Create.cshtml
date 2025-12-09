@@ -1,0 +1,101 @@
+﻿@model EllinMMCProject.Models.Course
+
+@{
+    ViewData["Title"] = "Yeni Kurs Yarat";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-controller="Courses" asp-action="Create" method="post" enctype="multipart/form-data">
+    <div>
+        <label>Başlıq</label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label>Təsvir</label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label>Əsas Şəkil (Cover)</label>
+        <input type="file" name="coverFile" class="form-control" />
+    </div>
+
+    <hr />
+    <h4>Mövzular</h4>
+    <div id="topics-container">
+        <div class="topic-item">
+            <input name="Topics[0].Title" placeholder="Mövzu başlıq" class="form-control mb-1" />
+            <input name="Topics[0].Description" placeholder="Mövzu təsviri" class="form-control mb-2" />
+        </div>
+    </div>
+    <button type="button" onclick="addTopic()" class="btn btn-secondary mb-3">Yeni Mövzu əlavə et</button>
+
+    <hr />
+    <h4>Əlavə Şəkillər</h4>
+    <div id="images-container">
+        <input type="file" name="imageFiles" class="form-control mb-2" multiple />
+    </div>
+
+    <hr />
+    <h4>Videolar</h4>
+    <div id="videos-container">
+        <input name="Videos[0].VideoUrl" placeholder="Video URL" class="form-control mb-1" />
+        <input name="Videos[0].Title" placeholder="Video başlıq" class="form-control mb-2" />
+    </div>
+    <button type="button" onclick="addVideo()" class="btn btn-secondary mb-3">Yeni Video əlavə et</button>
+
+    <button type="submit" class="btn btn-primary">Yarat</button>
+</form>
+
+@section Scripts {
+    <script>
+        // Topics əlavə etmək üçün
+        let topicIndex = 1;
+        function addTopic() {
+            const container = document.getElementById("topics-container");
+            const div = document.createElement("div");
+            div.classList.add("topic-item");
+
+            const titleInput = document.createElement("input");
+            titleInput.name = `Topics[${topicIndex}].Title`;
+            titleInput.placeholder = "Mövzu başlıq";
+            titleInput.classList.add("form-control", "mb-1");
+
+            const descInput = document.createElement("input");
+            descInput.name = `Topics[${topicIndex}].Description`;
+            descInput.placeholder = "Mövzu təsviri";
+            descInput.classList.add("form-control", "mb-2");
+
+            div.appendChild(titleInput);
+            div.appendChild(descInput);
+            container.appendChild(div);
+
+            topicIndex++;
+        }
+
+        // Videos əlavə etmək üçün
+        let videoIndex = 1;
+        function addVideo() {
+            const container = document.getElementById("videos-container");
+
+            const urlInput = document.createElement("input");
+            urlInput.name = `Videos[${videoIndex}].VideoUrl`;
+            urlInput.placeholder = "Video URL";
+            urlInput.classList.add("form-control", "mb-1");
+
+            const titleInput = document.createElement("input");
+            titleInput.name = `Videos[${videoIndex}].Title`;
+            titleInput.placeholder = "Video başlıq";
+            titleInput.classList.add("form-control", "mb-2");
+
+            container.appendChild(urlInput);
+            container.appendChild(titleInput);
+
+            videoIndex++;
+        }
+    </script>
+}

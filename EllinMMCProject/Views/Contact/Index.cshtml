@@ -1,0 +1,197 @@
+﻿@using EllinMMCProject.ViewModels
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section HeaderPartial {
+    @await Html.PartialAsync("_ContactHeader")
+}
+
+@model ContactVM
+
+<section class="page-header">
+    <div class="container">
+        <h1>Əlaqə</h1>
+        <p>Bizimlə əlaqə saxlayın və suallarınızı verin</p>
+    </div>
+</section>
+
+<section class="contact-section">
+    <div class="container">
+        <div class="contact-content">
+            <div class="contact-info">
+                <h2>Əlaqə Məlumatları</h2>
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fas fa-map-marker-alt"></i>
+                    </div>
+                    <div class="contact-details">
+                        <h3>Ünvan</h3>
+                        <p>
+                            Nizami rayonu, Azadlıq prospekti 123<br />
+                            Bakı AZ1000, Azərbaycan
+                        </p>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fa-solid fa-phone"></i>
+                    </div>
+                    <div class="contact-details">
+                        <h3>Telefon</h3>
+                        <p>+994 12 123 45 67<br />+994 50 123 45 67</p>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <div class="contact-details">
+                        <h3>E-mail</h3>
+                        <p>info@ellinmmc.az<br />admission@ellinmmc.az</p>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="contact-icon">
+                        <i class="fas fa-clock"></i>
+                    </div>
+                    <div class="contact-details">
+                        <h3>İş Saatları</h3>
+                        <p>
+                            Bazar ertəsi - Cümə: 09:00 - 18:00<br />
+                            Şənbə: 10:00 - 16:00<br />
+                            Bazar: Bağlı
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="contact-form">
+                <h2>Bizə Yazın</h2>
+                <form method="post" asp-controller="Contact" asp-action="SendMessage">
+                    <div class="form-group">
+                        <label asp-for="Appeals.FullName">Ad Soyad *</label>
+                        <input asp-for="Appeals.FullName" class="form-control" required />
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Appeals.Email">E-mail *</label>
+                        <input asp-for="Appeals.Email" class="form-control" type="email" required />
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Appeals.Phone">Telefon</label>
+                        <input asp-for="Appeals.Phone" class="form-control" />
+                    </div>
+
+                    <div class="form-group">
+                        <label>Maraqlandığınız Kurs</label>
+                        <select name="selectCourse" class="form-control">
+                            <option value="">Seçin</option>
+                            @if (Model.Courses != null)
+                            {
+                                @foreach (var item in Model.Courses)
+                                {
+                                    <option value="@item.Title">@item.Title</option>
+                                }
+                            }
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Appeals.Message">Mesaj *</label>
+                        <textarea asp-for="Appeals.Message" class="form-control" rows="5" required></textarea>
+                    </div>
+
+                    <button type="submit" class="btn-primary">Göndər</button>
+                </form>
+            </div>
+
+<!-- JavaScript-i SİLİN -->
+        </div>
+    </div>
+</section>
+
+<section class="map-section">
+    <div class="container">
+        <h2>Bizim Yerləşdiyimiz Yer</h2>
+        <div class="map-container">
+            <div class="map-wrap" style="width: 100%; margin: 0 auto">
+                <iframe src="https://www.google.com/maps?q=Ellin+MMC@40.4264547,49.8491455&hl=az&z=17&output=embed"
+                        width="100%"
+                        height="450"
+                        style="border: 0"
+                        allowfullscreen=""
+                        loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="faq-section">
+    <div class="container">
+        <div class="section-header">
+            <h2>Tez-tez Verilən Suallar</h2>
+            <p>Ən çox soruşulan sualların cavabları</p>
+        </div>
+        <div class="faq-container">
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>Qeydiyyat necə aparılır?</h3>
+                    <i class="fas fa-plus"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>
+                        Qeydiyyat üçün bizimlə əlaqə saxlayın və ya birbaşa mərkəzimizə gəlin. Qeydiyyat prosesi çox sadədir və tələb olunan sənədlər haqqında ətraflı məlumat verəcəyik.
+                    </p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>Təlim haqqı nə qədərdir?</h3>
+                    <i class="fas fa-plus"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>
+                        Təlim haqqları kursa görə dəyişir. Ətraflı qiymət məlumatları üçün bizə müraciət edin. Həmçinin taksit imkanları da mövcuddur.
+                    </p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>Sertifikat verilirmi?</h3>
+                    <i class="fas fa-plus"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>
+                        Bəli, bütün kursları uğurla bitirən tələbələrə Dövlət Məşğulluq Agentliyi tərəfindən tanınan sertifikat verilir.
+                    </p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>İş yerləşdirmə dəstəyi varmı?</h3>
+                    <i class="fas fa-plus"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>
+                        Bəli, məzunlarımız üçün iş yerləşdirmə dəstəyi təqdim edirik. Partnyör şirkətlərimizlə əməkdaşlıq edərək iş imkanları yaradırıq.
+                    </p>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">
+                    <h3>Onlayn təlim imkanı varmı?</h3>
+                    <i class="fas fa-plus"></i>
+                </div>
+                <div class="faq-answer">
+                    <p>
+                        Bəzi kurslarımız hibrid formatda təşkil olunur. Onlayn və ya hibrid təlim imkanları haqqında ətraflı məlumat üçün bizimlə əlaqə saxlayın.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

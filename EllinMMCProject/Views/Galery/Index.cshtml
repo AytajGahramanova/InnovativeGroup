@@ -1,0 +1,73 @@
+﻿@using EllinMMCProject.ViewModels
+@{
+    ViewData["Title"] = "Galeriya";
+}
+
+@model GalleryVM
+
+<!-- Page Header -->
+<section class="page-header">
+    <div class="container">
+        <h1>Qalereya</h1>
+        <p>Təlim prosesi və məzunlarımızın uğur hekayələri</p>
+    </div>
+</section>
+
+<!-- Gallery Filters -->
+<section class="gallery-filters">
+    <div class="container">
+        <div class="filter-buttons">
+            <button class="filter-btn active" data-filter="all">Hamısı</button>
+            @foreach (GalleryCategory item in Model.GalleryCategories)
+            {
+                <button class="filter-btn" data-filter="@item.Id">@item.Title</button>
+            }
+        </div>
+    </div>
+</section>
+
+<!-- Gallery Grid -->
+<section class="gallery-section">
+    <div class="container">
+        <div class="gallery-grid">
+            @foreach (GalleryProduct item in Model.GalleryProducts)
+            {
+                <div class="gallery-item" data-category="@item.Id">
+                    <img src="@item.Image" alt="Proqramlaşdırma dərsi">
+                    <div class="gallery-overlay">
+                        <h3>@item.Title</h3>
+                        <p>@item.Description</p>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
+
+<!-- Success Stories -->
+<section class="success-stories">
+    <div class="container">
+        <div class="section-header">
+            <h2>Uğur Hekayələri</h2>
+            <p>Məzunlarımızın nail olduğu nailiyyətlər</p>
+        </div>
+        <div class="stories-grid">
+            @foreach (var item in Model.Stories)
+            {
+                <div class="story-card">
+                    <div class="story-image">
+                        <img src="@item.Image" alt="@item.Name">
+                    </div>
+                    <div class="story-content">
+                        <h3>@item.Name - @item.Positions</h3>
+                        <p>"@item.Description"</p>
+                        <div class="story-company">@item.Company.</div>
+                    </div>
+                </div>
+            }
+           
+
+           
+        </div>
+    </div>
+</section>

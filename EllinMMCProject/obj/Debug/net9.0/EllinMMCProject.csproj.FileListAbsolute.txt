@@ -1,0 +1,1518 @@
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\appsettings.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.staticwebassets.runtime.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.staticwebassets.endpoints.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.exe
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.deps.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.runtimeconfig.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.pdb
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.AssemblyInfoInputs.cache
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.AssemblyInfo.cs
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.csproj.CoreCompileInputs.cache
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.RazorAssemblyInfo.cache
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.RazorAssemblyInfo.cs
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\scopedcss\bundle\EllinMMCProject.styles.css
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\scopedcss\projectbundle\EllinMMCProject.bundle.scp.css
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\33bn6hhv9d-c2jlpeoesf.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\fym3bnqjgv-erw9l3u2r3.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\tyl8p8wu8l-aexeepp0ev.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\0w4wftaumt-d7shbmvgxk.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\5zd6eibc6y-ausgxo2sd3.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\hpeawvq29z-k8d9w2qqmf.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\xgnzgxe4ba-cosvhxvwiu.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\4sg8jdynqm-fvhpjtyr6v.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\xj97qr02o2-b7pk76d08c.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\nfyq9v6jfo-fsbi9cje9m.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\g8virh3l2t-rzd6atqjts.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\pojcfpwt76-ee0r1s7dh0.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\wgjox1rzf1-dxx9fxp4il.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\fmdc75fob3-jd9uben2k1.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\ewkfckyua6-r4e9w2rdcm.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\6lb7monkva-lcd1t2u6c8.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\ffd51evbvy-c2oey78nd0.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\vuj647f6u1-tdbxkamptv.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\alodj0vefc-j5mq2jizvt.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\sjumsbfxlg-06098lyss8.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\2fytvvv9w0-nvvlpmu67g.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\zacf9npell-pj5nd1wqec.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\84ns2i8fco-46ein0sx1k.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\6rzhr1dzpq-v0zj4ognzu.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\9pwchzisbz-37tfw0ft22.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\mf79i1br0b-hrwsygsryq.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\i1elg0bfwh-pk9g2wxc8p.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\99c50o3ycw-ft3s53vfgj.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\d41oonv2e1-6cfz1n2cew.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\x544zu32hv-6pdc2jztkx.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\ak9ku7ocip-493y06b0oq.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\xe1wnkcaq3-iovd86k7lj.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\vg61h5z8ik-vr1egmr9el.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\qzv9th99l7-kbrnm935zg.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\1jmk9lw3zi-jj8uyg4cgr.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\em11521rcq-y7v9cxd14o.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\6hipkviak9-h1s4sie4z3.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\7doepqufr2-63fj8s7r0e.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\62h0dkhypb-0j3bgjxly4.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\j4g6cyj4fo-47otxtyo56.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\7uqsh7d9nl-4v8eqarkd7.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\94vdg4wwvv-356vix0kms.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\51x7ui77qq-83jwlth58m.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\c1a4jshsh8-mrlpezrjn3.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\pgyhp9khgq-lzl9nlhx6b.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\65nwop2a2u-ag7o75518u.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\db0yuo5113-x0q3zqp4vz.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\xhc2aj9iom-0i3buxo5is.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\6lf1d6o03u-o1o13a6vjx.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\9hfj0tvnu8-ttgo8qnofa.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\37xkbpkvp1-2z0ns9nrw6.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\lluf7yo32q-muycvpuwrr.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\5hmakny5k8-87fc7y1x7t.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\gv59w9ep7f-mlv21k5csn.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\3yo8vous82-xgd0xdmgsp.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\pcrzend6cg-xgd0xdmgsp.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\refint\EllinMMCProject.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.pdb
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.genruntimeconfig.cache
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\ref\EllinMMCProject.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\1ctma54gji-hq5w4n2lh9.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\5h8inj7rkj-5ipweew5fc.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\snl6ygtkwg-5ipweew5fc.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\vjglkh9fww-5ipweew5fc.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\o0c734b6b5-5ipweew5fc.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\vso1elp98d-5ipweew5fc.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Humanizer.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.csproj.AssemblyReference.cache
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\EllinMMC.FA9B9219.Up2Date
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\9vacslbuj8-b8s3ubxzza.gz
+C:\Users\aliza\OneDrive\Desktop\VsStudio\BackEndEduHome\EllinMMCProject\EllinMMCProject\obj\Debug\net9.0\compressed\20t0rtwfh0-3b1ju84uve.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.csproj.AssemblyReference.cache
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.AssemblyInfoInputs.cache
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.AssemblyInfo.cs
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.RazorAssemblyInfo.cache
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.RazorAssemblyInfo.cs
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\refint\EllinMMCProject.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.pdb
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\appsettings.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.staticwebassets.runtime.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.staticwebassets.endpoints.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.exe
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.deps.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.runtimeconfig.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.pdb
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\scopedcss\bundle\EllinMMCProject.styles.css
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\scopedcss\projectbundle\EllinMMCProject.bundle.scp.css
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\axe3lmusa6-8a8z3uasqb.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\hr4ikmu8ni-kfqhqcsbqp.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\4qc7qgh8qy-kkar1vmze3.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\rikg1cg5qm-r8br74h7gx.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\3lwmgw0lm1-8t9v47zd9b.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nnjnny7mvz-4dkpupy0ge.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\gk98pgh6vi-ntadgig8hn.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\am9hfuuwar-zej1xv0ba9.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\7m4modkowq-6j9jrsee2t.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\0tkf8puytu-lpe9tptjaz.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\wrw2pntx8v-yx248fkv98.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pz5m34i962-jbeb7z3vvd.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\urmh88ve5t-6qoo6vg7mq.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\jyiut2g5l0-tas5gry4xs.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\a370hz9dtz-pi5idtricg.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\b3vjahotot-vs2lb646tv.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nav0aexrwr-l5vnhmrt3x.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\hbxb81dea1-dn80wnmewa.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\lbes4q886g-ew1eqlv1th.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6fkiq9i3ac-16ph1jlizb.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\avxg1ncaky-wg4we540ot.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\wnjlim1861-dqh4p4d2nc.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\2obm5ydmaj-oajxrvu0sn.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ehmf4hm39t-cva4dsnw36.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\tasx0wfe28-nv5w2nxgqf.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\bzv3f2ktqt-4sidpjjv51.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\y4x520qmge-3gex9558qb.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5likboxqvh-vkikfn0ye1.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xxgozfqwq9-sahpi8z0fc.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\l9h2145mca-13sxped3wr.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\u36defz7dj-yz2ccrj534.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\emxzlyf7m5-pzvdq71x2t.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\jbbsr5xasf-2e80iu2ala.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\qin9yrqx6v-wor3bpzhp4.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\61ciukf2h0-n84pw89plb.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6b2stiqyqk-im00wh3yzt.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\a2xrg97m4g-1gy3od5t7f.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5h6akmlwer-w5svi24we7.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\qqzuvh6mm0-f6gn6608c8.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ob4yrktcnf-ka04xvabmt.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\zmt2nria6y-8oaxpedtmw.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\eec3urahe9-n0sinscwjc.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\uz01lwcy5g-73o89etmgf.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1d5vtvgp8f-1yf6kd9mgu.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\0kaowyfe8v-9jqcfmhb2q.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\zqslf82yf4-10gm8dhirj.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\oj3iq6mwwg-19ovxpl3lk.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5o73jvnicy-3rxayj6y19.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\bleucihhc6-hpn0zpxf8v.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nm0btfcnby-d6f9ntfbny.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\biboj4yyv7-f9f9m4fxv0.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\gha0pypq31-v6da3mjigs.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\cbebgb4ryq-m6q2wqhz8n.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\kl9m0t9nye-0tyulcd7mc.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\9vacslbuj8-b8s3ubxzza.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5h8inj7rkj-5ipweew5fc.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\33bn6hhv9d-c2jlpeoesf.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\fym3bnqjgv-erw9l3u2r3.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\tyl8p8wu8l-aexeepp0ev.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\0w4wftaumt-d7shbmvgxk.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5zd6eibc6y-ausgxo2sd3.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\hpeawvq29z-k8d9w2qqmf.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xgnzgxe4ba-cosvhxvwiu.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\snl6ygtkwg-5ipweew5fc.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\4sg8jdynqm-fvhpjtyr6v.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xj97qr02o2-b7pk76d08c.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nfyq9v6jfo-fsbi9cje9m.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\g8virh3l2t-rzd6atqjts.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pojcfpwt76-ee0r1s7dh0.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\wgjox1rzf1-dxx9fxp4il.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\fmdc75fob3-jd9uben2k1.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vjglkh9fww-5ipweew5fc.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ewkfckyua6-r4e9w2rdcm.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6lb7monkva-lcd1t2u6c8.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ffd51evbvy-c2oey78nd0.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vuj647f6u1-tdbxkamptv.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\alodj0vefc-j5mq2jizvt.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\sjumsbfxlg-06098lyss8.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\2fytvvv9w0-nvvlpmu67g.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\o0c734b6b5-5ipweew5fc.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\zacf9npell-pj5nd1wqec.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\84ns2i8fco-46ein0sx1k.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6rzhr1dzpq-v0zj4ognzu.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\9pwchzisbz-37tfw0ft22.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\mf79i1br0b-hrwsygsryq.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\i1elg0bfwh-pk9g2wxc8p.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\99c50o3ycw-ft3s53vfgj.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\d41oonv2e1-6cfz1n2cew.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\x544zu32hv-6pdc2jztkx.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ak9ku7ocip-493y06b0oq.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xe1wnkcaq3-iovd86k7lj.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vg61h5z8ik-vr1egmr9el.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\qzv9th99l7-kbrnm935zg.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1jmk9lw3zi-jj8uyg4cgr.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\em11521rcq-y7v9cxd14o.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vso1elp98d-5ipweew5fc.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6hipkviak9-h1s4sie4z3.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\7doepqufr2-63fj8s7r0e.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\62h0dkhypb-0j3bgjxly4.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\j4g6cyj4fo-47otxtyo56.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\7uqsh7d9nl-4v8eqarkd7.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\94vdg4wwvv-l3n5xuwxn8.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\51x7ui77qq-ilo7uva0vt.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\c1a4jshsh8-qlccset4i1.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pgyhp9khgq-lzl9nlhx6b.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\65nwop2a2u-ag7o75518u.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\db0yuo5113-xzw0cte36n.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xhc2aj9iom-0i3buxo5is.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6lf1d6o03u-o1o13a6vjx.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\9hfj0tvnu8-ttgo8qnofa.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\37xkbpkvp1-2z0ns9nrw6.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\lluf7yo32q-muycvpuwrr.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5hmakny5k8-87fc7y1x7t.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\gv59w9ep7f-jfsiqqwiad.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\3yo8vous82-xgd0xdmgsp.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pcrzend6cg-xgd0xdmgsp.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMC.FA9B9219.Up2Date
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.genruntimeconfig.cache
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\ref\EllinMMCProject.dll
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.sourcelink.json
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\20t0rtwfh0-pjhea6zou1.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1r0qt0ue28-3r8b2a0bt1.gz
+C:\Users\Dell 5320\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1ctma54gji-jc4m46ekv7.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\appsettings.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.staticwebassets.endpoints.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.staticwebassets.runtime.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.exe
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.deps.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.runtimeconfig.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.pdb
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.csproj.AssemblyReference.cache
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.AssemblyInfoInputs.cache
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.AssemblyInfo.cs
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.RazorAssemblyInfo.cache
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.RazorAssemblyInfo.cs
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.sourcelink.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\scopedcss\bundle\EllinMMCProject.styles.css
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\scopedcss\projectbundle\EllinMMCProject.bundle.scp.css
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\axe3lmusa6-8a8z3uasqb.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\hr4ikmu8ni-kfqhqcsbqp.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\4qc7qgh8qy-kkar1vmze3.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\rikg1cg5qm-r8br74h7gx.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\3lwmgw0lm1-8t9v47zd9b.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nnjnny7mvz-4dkpupy0ge.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\gk98pgh6vi-ntadgig8hn.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\am9hfuuwar-zej1xv0ba9.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\7m4modkowq-6j9jrsee2t.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\0tkf8puytu-lpe9tptjaz.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\wrw2pntx8v-yx248fkv98.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pz5m34i962-jbeb7z3vvd.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\urmh88ve5t-6qoo6vg7mq.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\jyiut2g5l0-tas5gry4xs.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\a370hz9dtz-pi5idtricg.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\b3vjahotot-vs2lb646tv.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nav0aexrwr-l5vnhmrt3x.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\hbxb81dea1-dn80wnmewa.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\lbes4q886g-ew1eqlv1th.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6fkiq9i3ac-16ph1jlizb.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\avxg1ncaky-wg4we540ot.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\wnjlim1861-dqh4p4d2nc.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\2obm5ydmaj-oajxrvu0sn.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ehmf4hm39t-cva4dsnw36.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\tasx0wfe28-nv5w2nxgqf.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\bzv3f2ktqt-4sidpjjv51.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\y4x520qmge-3gex9558qb.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5likboxqvh-vkikfn0ye1.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xxgozfqwq9-sahpi8z0fc.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\l9h2145mca-13sxped3wr.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\u36defz7dj-yz2ccrj534.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\emxzlyf7m5-pzvdq71x2t.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\jbbsr5xasf-2e80iu2ala.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\qin9yrqx6v-wor3bpzhp4.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\61ciukf2h0-n84pw89plb.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6b2stiqyqk-im00wh3yzt.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\a2xrg97m4g-1gy3od5t7f.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5h6akmlwer-w5svi24we7.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\qqzuvh6mm0-f6gn6608c8.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ob4yrktcnf-ka04xvabmt.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\zmt2nria6y-8oaxpedtmw.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\eec3urahe9-n0sinscwjc.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\uz01lwcy5g-73o89etmgf.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1d5vtvgp8f-1yf6kd9mgu.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\0kaowyfe8v-9jqcfmhb2q.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\zqslf82yf4-10gm8dhirj.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\oj3iq6mwwg-19ovxpl3lk.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5o73jvnicy-3rxayj6y19.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\bleucihhc6-hpn0zpxf8v.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nm0btfcnby-d6f9ntfbny.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\biboj4yyv7-f9f9m4fxv0.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\gha0pypq31-v6da3mjigs.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\cbebgb4ryq-m6q2wqhz8n.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\kl9m0t9nye-0tyulcd7mc.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\20t0rtwfh0-pjhea6zou1.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\9vacslbuj8-b8s3ubxzza.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1ctma54gji-jc4m46ekv7.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1r0qt0ue28-3r8b2a0bt1.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5h8inj7rkj-5ipweew5fc.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\33bn6hhv9d-c2jlpeoesf.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\fym3bnqjgv-erw9l3u2r3.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\tyl8p8wu8l-aexeepp0ev.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\0w4wftaumt-d7shbmvgxk.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5zd6eibc6y-ausgxo2sd3.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\hpeawvq29z-k8d9w2qqmf.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xgnzgxe4ba-cosvhxvwiu.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\snl6ygtkwg-5ipweew5fc.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\4sg8jdynqm-fvhpjtyr6v.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xj97qr02o2-b7pk76d08c.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nfyq9v6jfo-fsbi9cje9m.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\g8virh3l2t-rzd6atqjts.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pojcfpwt76-ee0r1s7dh0.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\wgjox1rzf1-dxx9fxp4il.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\fmdc75fob3-jd9uben2k1.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vjglkh9fww-5ipweew5fc.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ewkfckyua6-r4e9w2rdcm.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6lb7monkva-lcd1t2u6c8.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ffd51evbvy-c2oey78nd0.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vuj647f6u1-tdbxkamptv.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\alodj0vefc-j5mq2jizvt.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\sjumsbfxlg-06098lyss8.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\2fytvvv9w0-nvvlpmu67g.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\o0c734b6b5-5ipweew5fc.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\zacf9npell-pj5nd1wqec.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\84ns2i8fco-46ein0sx1k.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6rzhr1dzpq-v0zj4ognzu.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\9pwchzisbz-37tfw0ft22.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\mf79i1br0b-hrwsygsryq.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\i1elg0bfwh-pk9g2wxc8p.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\99c50o3ycw-ft3s53vfgj.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\d41oonv2e1-6cfz1n2cew.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\x544zu32hv-6pdc2jztkx.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ak9ku7ocip-493y06b0oq.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xe1wnkcaq3-iovd86k7lj.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vg61h5z8ik-vr1egmr9el.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\qzv9th99l7-kbrnm935zg.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1jmk9lw3zi-jj8uyg4cgr.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\em11521rcq-y7v9cxd14o.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vso1elp98d-5ipweew5fc.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6hipkviak9-h1s4sie4z3.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\7doepqufr2-63fj8s7r0e.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\62h0dkhypb-0j3bgjxly4.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\j4g6cyj4fo-47otxtyo56.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\7uqsh7d9nl-4v8eqarkd7.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\94vdg4wwvv-l3n5xuwxn8.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\51x7ui77qq-ilo7uva0vt.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\c1a4jshsh8-qlccset4i1.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pgyhp9khgq-lzl9nlhx6b.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\65nwop2a2u-ag7o75518u.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\db0yuo5113-xzw0cte36n.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xhc2aj9iom-0i3buxo5is.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6lf1d6o03u-o1o13a6vjx.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\9hfj0tvnu8-ttgo8qnofa.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\37xkbpkvp1-2z0ns9nrw6.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\lluf7yo32q-muycvpuwrr.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5hmakny5k8-87fc7y1x7t.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\gv59w9ep7f-jfsiqqwiad.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\3yo8vous82-xgd0xdmgsp.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pcrzend6cg-xgd0xdmgsp.gz
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMC.FA9B9219.Up2Date
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\refint\EllinMMCProject.dll
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.pdb
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.genruntimeconfig.cache
+C:\Users\Dell 5320\Desktop\kutu\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\ref\EllinMMCProject.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.sourcelink.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\refint\EllinMMCProject.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.pdb
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\appsettings.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.staticwebassets.runtime.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.staticwebassets.endpoints.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.exe
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.deps.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.runtimeconfig.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\EllinMMCProject.pdb
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\scopedcss\bundle\EllinMMCProject.styles.css
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\scopedcss\projectbundle\EllinMMCProject.bundle.scp.css
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\axe3lmusa6-8a8z3uasqb.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\rikg1cg5qm-r8br74h7gx.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\3lwmgw0lm1-8t9v47zd9b.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nnjnny7mvz-4dkpupy0ge.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\gk98pgh6vi-ntadgig8hn.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\am9hfuuwar-zej1xv0ba9.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\7m4modkowq-6j9jrsee2t.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\0tkf8puytu-lpe9tptjaz.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\wrw2pntx8v-yx248fkv98.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pz5m34i962-jbeb7z3vvd.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\urmh88ve5t-6qoo6vg7mq.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\jyiut2g5l0-tas5gry4xs.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\a370hz9dtz-pi5idtricg.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\b3vjahotot-vs2lb646tv.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nav0aexrwr-l5vnhmrt3x.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\hbxb81dea1-dn80wnmewa.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\lbes4q886g-ew1eqlv1th.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6fkiq9i3ac-16ph1jlizb.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\avxg1ncaky-wg4we540ot.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\wnjlim1861-dqh4p4d2nc.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\2obm5ydmaj-oajxrvu0sn.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ehmf4hm39t-cva4dsnw36.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\tasx0wfe28-nv5w2nxgqf.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\bzv3f2ktqt-4sidpjjv51.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\y4x520qmge-3gex9558qb.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5likboxqvh-vkikfn0ye1.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xxgozfqwq9-sahpi8z0fc.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\l9h2145mca-13sxped3wr.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\u36defz7dj-yz2ccrj534.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\emxzlyf7m5-pzvdq71x2t.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\jbbsr5xasf-2e80iu2ala.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\qin9yrqx6v-wor3bpzhp4.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\61ciukf2h0-n84pw89plb.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6b2stiqyqk-im00wh3yzt.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\a2xrg97m4g-1gy3od5t7f.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5h6akmlwer-w5svi24we7.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\qqzuvh6mm0-f6gn6608c8.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ob4yrktcnf-ka04xvabmt.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\zmt2nria6y-8oaxpedtmw.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\eec3urahe9-n0sinscwjc.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\uz01lwcy5g-73o89etmgf.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1d5vtvgp8f-1yf6kd9mgu.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\0kaowyfe8v-9jqcfmhb2q.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\zqslf82yf4-10gm8dhirj.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\oj3iq6mwwg-19ovxpl3lk.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5o73jvnicy-3rxayj6y19.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\bleucihhc6-hpn0zpxf8v.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nm0btfcnby-d6f9ntfbny.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\biboj4yyv7-f9f9m4fxv0.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\gha0pypq31-v6da3mjigs.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\cbebgb4ryq-m6q2wqhz8n.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\kl9m0t9nye-0tyulcd7mc.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\9vacslbuj8-b8s3ubxzza.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1ctma54gji-jc4m46ekv7.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1r0qt0ue28-3r8b2a0bt1.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5h8inj7rkj-5ipweew5fc.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\33bn6hhv9d-c2jlpeoesf.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\fym3bnqjgv-erw9l3u2r3.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\tyl8p8wu8l-aexeepp0ev.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\0w4wftaumt-d7shbmvgxk.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5zd6eibc6y-ausgxo2sd3.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\hpeawvq29z-k8d9w2qqmf.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xgnzgxe4ba-cosvhxvwiu.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\snl6ygtkwg-5ipweew5fc.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\4sg8jdynqm-fvhpjtyr6v.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xj97qr02o2-b7pk76d08c.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\nfyq9v6jfo-fsbi9cje9m.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\g8virh3l2t-rzd6atqjts.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pojcfpwt76-ee0r1s7dh0.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\wgjox1rzf1-dxx9fxp4il.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\fmdc75fob3-jd9uben2k1.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vjglkh9fww-5ipweew5fc.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ewkfckyua6-r4e9w2rdcm.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6lb7monkva-lcd1t2u6c8.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ffd51evbvy-c2oey78nd0.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vuj647f6u1-tdbxkamptv.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\alodj0vefc-j5mq2jizvt.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\sjumsbfxlg-06098lyss8.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\2fytvvv9w0-nvvlpmu67g.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\o0c734b6b5-5ipweew5fc.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\zacf9npell-pj5nd1wqec.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\84ns2i8fco-46ein0sx1k.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6rzhr1dzpq-v0zj4ognzu.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\9pwchzisbz-37tfw0ft22.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\mf79i1br0b-hrwsygsryq.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\i1elg0bfwh-pk9g2wxc8p.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\99c50o3ycw-ft3s53vfgj.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\d41oonv2e1-6cfz1n2cew.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\x544zu32hv-6pdc2jztkx.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\ak9ku7ocip-493y06b0oq.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xe1wnkcaq3-iovd86k7lj.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vg61h5z8ik-vr1egmr9el.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\qzv9th99l7-kbrnm935zg.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\1jmk9lw3zi-jj8uyg4cgr.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\em11521rcq-y7v9cxd14o.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\vso1elp98d-5ipweew5fc.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6hipkviak9-h1s4sie4z3.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\7doepqufr2-63fj8s7r0e.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\62h0dkhypb-0j3bgjxly4.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\j4g6cyj4fo-47otxtyo56.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\7uqsh7d9nl-4v8eqarkd7.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\94vdg4wwvv-l3n5xuwxn8.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\51x7ui77qq-ilo7uva0vt.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\c1a4jshsh8-qlccset4i1.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pgyhp9khgq-lzl9nlhx6b.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\65nwop2a2u-ag7o75518u.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\db0yuo5113-xzw0cte36n.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\xhc2aj9iom-0i3buxo5is.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\6lf1d6o03u-o1o13a6vjx.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\9hfj0tvnu8-ttgo8qnofa.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\37xkbpkvp1-2z0ns9nrw6.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\lluf7yo32q-muycvpuwrr.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\5hmakny5k8-87fc7y1x7t.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\gv59w9ep7f-jfsiqqwiad.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\3yo8vous82-xgd0xdmgsp.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\pcrzend6cg-xgd0xdmgsp.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMC.FA9B9219.Up2Date
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\EllinMMCProject.genruntimeconfig.cache
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\ref\EllinMMCProject.dll
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\20t0rtwfh0-c4v3m162r9.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\4qc7qgh8qy-x8k4ot001m.gz
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\obj\Debug\net9.0\compressed\hr4ikmu8ni-ntvb94wl61.gz

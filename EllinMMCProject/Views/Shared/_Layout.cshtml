@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>EllinMMC - @ViewData["Title"]</title>
+    <base href="@(Url.Content("~/"))" />
+    <link rel="icon" href="img/favicon.ico" />
+
+
+
+
+    <link rel="stylesheet" href="@(Url.Content("css/style.css"))" />
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+
+    <!-- Swiper CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+</head>
+<body>
+
+    @* Header bölməsi: səhifədə HeaderPartial varsa onu göstər, yoxsa default header *@
+    @if (IsSectionDefined("HeaderPartial"))
+    {
+        @RenderSection("HeaderPartial", required: false)
+    }
+    else
+    {
+        @await Html.PartialAsync("_Header")
+    }
+
+    <main>
+        @RenderBody()
+    </main>
+
+    @* Footer həmişə göstərilir *@
+    @await Html.PartialAsync("_Footer")
+
+    <script src="js/script.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

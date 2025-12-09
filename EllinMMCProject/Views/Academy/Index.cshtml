@@ -1,0 +1,91 @@
+﻿@model List<Academy>
+
+
+@{
+    ViewData["Title"] = "Akademiya";
+}
+
+  <!-- Page Header -->
+<section class="page-header">
+    <div class="container">
+        <h1>Akademiya</h1>
+        <p>Müxtəlif sahələrdə peşəkar təlim proqramları</p>
+    </div>
+</section>
+
+@foreach (var item in Model)
+{
+    @if (item.Id % 2 == 0)
+    {
+        <section id="programming" class="academy-section">
+            <div class="container">
+                <div class="section-content">
+                    <div class="section-text">
+                        <h2>@item.Title</h2>
+                        <p>
+                           @item.Description
+                        </p>
+                        <ul class="feature-list">
+                            @foreach (var topic in item.academyTopics)
+                            {
+                                <li><i class="fas fa-check"></i> @topic.Title</li>
+                            }
+                          
+                           
+                        </ul>
+                        <button class="learn-more">
+                            <span class="circle" aria-hidden="true">
+                                <span class="icon arrow"></span>
+                            </span>
+                            <a asp-controller="Contact" asp-action="Index" class="button-text">Qeydiyyat</a>
+                        </button>
+                    </div>
+                    <div class="section-image">
+                        <img src="@item.Image" alt="Proqramlaşdırma" />
+                    </div>
+                </div>
+            </div>
+        </section>
+    }
+    else
+    {
+        <section id="design" class="academy-section alt-bg">
+            <div class="container">
+                <div class="section-content reverse">
+                    <div class="section-text">
+                        <h2>@item.Title</h2>
+                        <p>
+                            @item.Description
+                        </p>
+                        <ul class="feature-list">
+                            @foreach (var topic in item.academyTopics)
+                            {
+                                <li><i class="fas fa-check"></i>@topic.Title</li>
+                            }
+                                                  
+                        </ul>
+                        <button class="learn-more">
+                            <span class="circle" aria-hidden="true">
+                                <span class="icon arrow"></span>
+                            </span>
+                            <a asp-controller="Contact" asp-action="Index" class="button-text">Qeydiyyat</a>
+                        </button>
+                    </div>
+                    <div class="section-image">
+                        <img src="@item.Image" alt="@item.Title" />
+                    </div>
+                </div>
+            </div>
+        </section>
+    }
+
+}
+
+
+<!-- Programming Section -->
+
+
+<!-- Design Section -->
+
+
+

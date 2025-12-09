@@ -1,0 +1,165 @@
+﻿@model EllinMMCProject.Models.Course
+
+@{
+    ViewData["Title"] = "Kurs Düzenle";
+}
+
+<h1>Kurs Düzenle</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="Edit">
+            <input type="hidden" asp-for="Id" />
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Title" class="control-label">Kurs Adı</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Description" class="control-label">Açıklama</label>
+                <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="Image" class="control-label">Ana Görsel URL</label>
+                <input asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <input type="submit" value="Kaydet" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">İptal</a>
+            </div>
+        </form>
+
+        <!-- Konu Yönetimi -->
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">Kurs Konuları</h5>
+                <a asp-action="AddTopic" asp-route-courseId="@Model.Id" class="btn btn-success btn-sm">Yeni Konu Ekle</a>
+            </div>
+            <div class="card-body">
+                @if (Model.Topics != null && Model.Topics.Any())
+                {
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Başlık</th>
+                                <th>Açıklama</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var topic in Model.Topics)
+                            {
+                                <tr>
+                                    <td>@topic.Title</td>
+                                    <td>@topic.Description</td>
+                                    <td>
+                                        <form asp-action="DeleteTopic" method="post">
+                                            <input type="hidden" name="id" value="@topic.Id" />
+                                            <button type="submit" class="btn btn-danger btn-sm"
+                                                    onclick="return confirm('Bu konuyu silmek istediğinize emin misiniz?')">
+                                                Sil
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <p class="text-muted">Henüz konu eklenmemiş.</p>
+                }
+            </div>
+        </div>
+
+        <!-- Resim Yönetimi -->
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">Kurs Resimleri</h5>
+                <a asp-action="AddImage" asp-route-courseId="@Model.Id" class="btn btn-success btn-sm">Yeni Resim Ekle</a>
+            </div>
+            <div class="card-body">
+                @if (Model.Images != null && Model.Images.Any())
+                {
+                    <div class="row">
+                        @foreach (var image in Model.Images)
+                        {
+                            <div class="col-md-4 mb-3">
+                                <div class="card">
+                                    <img src="@image.ImageUrl" class="card-img-top" alt="Kurs resmi" style="height: 150px; object-fit: cover;">
+                                    <div class="card-body">
+                                        <form asp-action="DeleteImage" method="post">
+                                            <input type="hidden" name="id" value="@image.Id" />
+                                            <button type="submit" class="btn btn-danger btn-sm"
+                                                    onclick="return confirm('Bu resmi silmek istediğinize emin misiniz?')">
+                                                Sil
+                                            </button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                }
+                else
+                {
+                    <p class="text-muted">Henüz resim eklenmemiş.</p>
+                }
+            </div>
+        </div>
+
+        <!-- Video Yönetimi -->
+        <div class="card mb-4">
+            <div class="card-header d-flex justify-content-between align-items-center">
+                <h5 class="mb-0">Kurs Videoları</h5>
+                <a asp-action="AddVideo" asp-route-courseId="@Model.Id" class="btn btn-success btn-sm">Yeni Video Ekle</a>
+            </div>
+            <div class="card-body">
+                @if (Model.Videos != null && Model.Videos.Any())
+                {
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Başlık</th>
+                                <th>Video URL</th>
+                                <th>İşlemler</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var video in Model.Videos)
+                            {
+                                <tr>
+                                    <td>@video.Title</td>
+                                    <td>@video.VideoUrl</td>
+                                    <td>
+                                        <form asp-action="DeleteVideo" method="post">
+                                            <input type="hidden" name="id" value="@video.Id" />
+                                            <button type="submit" class="btn btn-danger btn-sm"
+                                                    onclick="return confirm('Bu videoyu silmek istediğinize emin misiniz?')">
+                                                Sil
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <p class="text-muted">Henüz video eklenmemiş.</p>
+                }
+            </div>
+        </div>
+    </div>
+</div>
