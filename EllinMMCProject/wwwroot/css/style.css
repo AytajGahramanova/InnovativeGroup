@@ -98,7 +98,8 @@ body {
     transition: none 0.3s ease;
     font-weight: bold;
     font-size: 14px;
-   
+    display: inline-block;
+    width: 100%;
 }
 
 .telegram:hover .telegram-text {
@@ -119,7 +120,7 @@ body {
 
 .telegram:hover .telegram-svg {
    
-    margin-left: 40px;
+    margin-left: 50px;
     display: block;
     transform: rotate(50deg);
 }

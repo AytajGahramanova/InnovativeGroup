@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EllinMMCProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a11e49f6dbf7b2979c6e66123ff0410427ba1c75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9952c596d0fd9b05959fa8851ffc61d6c19bbb1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EllinMMCProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EllinMMCProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,11 @@
 
 <h2>@ViewData["Title"]</h2>
 
-<form asp-controller="Courses" asp-action="Create" method="post" enctype="multipart/form-data">
+<div class="row">
+    <div class="col-md-8">
+        <div class="card shadow-sm border-0 rounded-3">
+            <div class="card-body p-4">
+                <form asp-controller="Courses" asp-action="Create" method="post" enctype="multipart/form-data" class="d-flex flex-column" style="gap:10px;">
     <div>
         <label>Başlıq</label>
         <input asp-for="Title" class="form-control" />
@@ -24,32 +28,41 @@
         <input type="file" name="coverFile" class="form-control" />
     </div>
 
-    <hr />
-    <h4>Mövzular</h4>
+   <div class="mb-3 mt-3">
+        <h4 class="mb-2">Mövzular</h4>
     <div id="topics-container">
-        <div class="topic-item">
+        <div class="topic-item d-flex flex-column" style="gap: 6px;">
             <input name="Topics[0].Title" placeholder="Mövzu başlıq" class="form-control mb-1" />
             <input name="Topics[0].Description" placeholder="Mövzu təsviri" class="form-control mb-2" />
         </div>
     </div>
-    <button type="button" onclick="addTopic()" class="btn btn-secondary mb-3">Yeni Mövzu əlavə et</button>
+    <button type="button" onclick="addTopic()" class="btn btn-secondary">Yeni Mövzu əlavə et</button>
+   </div>
 
-    <hr />
-    <h4>Əlavə Şəkillər</h4>
+    <h4 class="mb-0">Əlavə Şəkillər</h4>
     <div id="images-container">
         <input type="file" name="imageFiles" class="form-control mb-2" multiple />
     </div>
 
-    <hr />
-    <h4>Videolar</h4>
-    <div id="videos-container">
+   <div class="mb-3 mt-3">
+        <h4 class="mb-2">Videolar</h4>
+    <div id="videos-container" class="d-flex flex-column" style="gap: 6px;">
         <input name="Videos[0].VideoUrl" placeholder="Video URL" class="form-control mb-1" />
         <input name="Videos[0].Title" placeholder="Video başlıq" class="form-control mb-2" />
     </div>
-    <button type="button" onclick="addVideo()" class="btn btn-secondary mb-3">Yeni Video əlavə et</button>
+    <button type="button" onclick="addVideo()" class="btn btn-secondary">Yeni Video əlavə et</button>
+   </div>
 
-    <button type="submit" class="btn btn-primary">Yarat</button>
+    <div class="d-flex align-items-center justify-content-center">
+        <button type="submit" class="btn btn-primary">Yarat</button>
+    </div>
 </form>
+
+              </div
+                </div>
+                  </div>
+                    </div>
+
 
 @section Scripts {
     <script>

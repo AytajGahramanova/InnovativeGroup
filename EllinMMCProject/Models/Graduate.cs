@@ -1,4 +1,6 @@
-﻿namespace EllinMMCProject.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace EllinMMCProject.Models
 {
     public class Graduate
     {
@@ -6,7 +8,10 @@
         public string Name { get; set; }
         public string Description { get; set; }
         public string Position { get; set; }
-        public string Image { get; set; }
+        public string? Image { get; set; }
 
-    }
+		[NotMapped]
+		public IFormFile? formFile { get; set; }
+
+	}
 }

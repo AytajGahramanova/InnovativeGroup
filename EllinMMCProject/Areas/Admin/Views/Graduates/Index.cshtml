@@ -5,11 +5,12 @@
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2 class="mb-0">Graduates List</h2>
+    <a asp-action="Create" class="btn btn-lg text-white btn-success shadow">
+        <i class="bi bi-plus-circle"></i> Add New Graduate
+    </a>
+</div>
 <table class="table">
     <thead>
         <tr>

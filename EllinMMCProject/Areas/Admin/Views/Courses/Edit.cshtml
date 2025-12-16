@@ -7,8 +7,12 @@
 <h1>Kurs Düzenle</h1>
 
 <hr />
+        
 <div class="row">
     <div class="col-md-8">
+                <div class="card shadow-sm border-0 rounded-3">
+                    <div class="card-body p-4">
+       
         <form asp-action="Edit">
             <input type="hidden" asp-for="Id" />
 
@@ -36,13 +40,14 @@
                 <input type="submit" value="Kaydet" class="btn btn-primary" />
                 <a asp-action="Index" class="btn btn-secondary">İptal</a>
             </div>
+           
         </form>
 
         <!-- Konu Yönetimi -->
         <div class="card mb-4">
             <div class="card-header d-flex justify-content-between align-items-center">
                 <h5 class="mb-0">Kurs Konuları</h5>
-                <a asp-action="AddTopic" asp-route-courseId="@Model.Id" class="btn btn-success btn-sm">Yeni Konu Ekle</a>
+                <a asp-action="AddTopic" asp-route-courseId="@Model.Id" class="btn btn-success btn-sm text-white">Yeni Konu Ekle</a>
             </div>
             <div class="card-body">
                 @if (Model.Topics != null && Model.Topics.Any())
@@ -86,7 +91,7 @@
         <div class="card mb-4">
             <div class="card-header d-flex justify-content-between align-items-center">
                 <h5 class="mb-0">Kurs Resimleri</h5>
-                <a asp-action="AddImage" asp-route-courseId="@Model.Id" class="btn btn-success btn-sm">Yeni Resim Ekle</a>
+                        <a asp-action="AddImage" asp-route-courseId="@Model.Id" class="btn btn-success btn-sm text-white">Yeni Resim Ekle</a>
             </div>
             <div class="card-body">
                 @if (Model.Images != null && Model.Images.Any())
@@ -122,7 +127,7 @@
         <div class="card mb-4">
             <div class="card-header d-flex justify-content-between align-items-center">
                 <h5 class="mb-0">Kurs Videoları</h5>
-                <a asp-action="AddVideo" asp-route-courseId="@Model.Id" class="btn btn-success btn-sm">Yeni Video Ekle</a>
+                        <a asp-action="AddVideo" asp-route-courseId="@Model.Id" class="btn btn-success btn-sm text-white">Yeni Video Ekle</a>
             </div>
             <div class="card-body">
                 @if (Model.Videos != null && Model.Videos.Any())
@@ -159,6 +164,9 @@
                 {
                     <p class="text-muted">Henüz video eklenmemiş.</p>
                 }
+            </div>
+        </div>
+
             </div>
         </div>
     </div>

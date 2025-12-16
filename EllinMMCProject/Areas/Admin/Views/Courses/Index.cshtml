@@ -32,8 +32,8 @@
                     <td>@course.Images.Count</td>
                     <td>@course.Videos.Count</td>
                     <td>
-                        <a asp-action="Edit" asp-route-id="@course.Id" class="btn btn-sm btn-primary">Düzəliş</a>
-                        <a asp-action="Delete" asp-route-id="@course.Id" class="btn btn-sm btn-danger">Sil</a>
+                        <a asp-action="Edit" asp-route-id="@course.Id" class="btn btn-md btn-warning shadow-sm text-white">Düzəliş</a>
+                        <a asp-action="Delete" asp-route-id="@course.Id" class="btn btn-md btn-danger shadow-sm text-white">Sil</a>
                     </td>
                 </tr>
                 index++;
@@ -48,4 +48,4 @@
     </tbody>
 </table>
 
-<a asp-action="Create" class="btn btn-success mt-3">Create New Course</a>
+<a asp-action="Create" class="btn btn-md text-white btn-success mt-3">Create New Course</a>

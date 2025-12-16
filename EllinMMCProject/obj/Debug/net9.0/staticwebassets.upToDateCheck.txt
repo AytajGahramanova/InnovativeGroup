@@ -125,19 +125,24 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\uploads\0099f577-0964-4f09-9d42-c5509a80edd0_299384673.jpg
 wwwroot\uploads\0440df97-df26-448e-ac7f-b8327c2688e5.jpg
 wwwroot\uploads\0c26a8ee-1b12-46e5-939a-2d4559abd6b8.jpg
 wwwroot\uploads\0dc8365e-d135-4366-bc20-3a0acdf77b52.jpg
 wwwroot\uploads\1244f3e8-a6ba-4b7c-83e9-2d071b7bf8f0.jpg
+wwwroot\uploads\149a7c56-6f7e-425b-a4f1-f0b71eddaf67.jpg
 wwwroot\uploads\173ecee8-dd63-4974-8603-2c7c6b739513.jpg
+wwwroot\uploads\2a3b3f14-d724-49f5-b160-7d3f3fed2b54_Aytac.jpg
 wwwroot\uploads\2b51d061-a69c-4888-b80f-1a72d1ba3aae.jpg
 wwwroot\uploads\2df7c29d-435e-4db4-af18-127710413db5.jpg
 wwwroot\uploads\3f865942-0098-4c41-90f9-7462e145081b.jpg
+wwwroot\uploads\44135e61-8f04-434c-bfc7-3849d9aea111.jpg
 wwwroot\uploads\46812080-724f-42ed-aa72-8a15eba3f7c2_IMG-9098.jpg
 wwwroot\uploads\469f53f3-692b-4655-a4d0-59531a65ae0b_pexels-sohi-807598 (1).jpg
 wwwroot\uploads\4e8ef431-e5fa-4c17-ba15-7ebe01716170_IMG-9098.jpg
 wwwroot\uploads\585bebf5-e650-4b80-855e-4200dd47e2bb_Aytac.jpg
 wwwroot\uploads\59895842-0684-4a5d-9474-98126118208d_team-1.jpg
+wwwroot\uploads\5b28d442-59b5-430c-b9b2-d26a7791c261.jpeg
 wwwroot\uploads\657b5450-0239-409d-bed6-ed31dcf8ddd0.jpg
 wwwroot\uploads\69f0afd8-066a-4f12-afeb-fc2e7a7de9c6.jpg
 wwwroot\uploads\6aa6fb50-2469-4221-92e9-ab358fd87652_download.png
@@ -153,6 +158,7 @@ wwwroot\uploads\ce9df332-52bd-4262-a478-d12000eca105_single-fresh-red-strawberry
 wwwroot\uploads\dcb507d1-5fac-4be8-8164-de69873dacf1_single-fresh-red-strawberry-on-table-green-background-food-fruit-sweet-macro-juicy-plant-image-photo.jpg
 wwwroot\uploads\ecf691f4-b8e5-4be8-bb1c-658a52b69682.jpg
 wwwroot\uploads\edbfde62-039c-4057-8619-f31cbd5e2c6d.png
+wwwroot\uploads\f9b0e6ff-85ac-47fb-b1f2-d2ca1c9d95ab_WhatsApp Image 2023-04-20 at 21.33.11.jpeg
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\admin\js\apexcharts.min.js
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -160,7 +166,7 @@ C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\lib\bootstrap
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\js\test.js
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\img\favicon.ico
-C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\css\style.css
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\js\script.js
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\admin\js\jquery.dataTables.min.js
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\admin\js\topojson.min.js
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\admin\js\tinycolor-min.js
@@ -269,4 +275,4 @@ C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\lib\jquery\di
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\lib\jquery\dist\jquery.slim.min.map
-C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\js\script.js
+C:\Users\Asus\Desktop\EllinMMCBackEnd-main\EllinMMCProject\wwwroot\css\style.css

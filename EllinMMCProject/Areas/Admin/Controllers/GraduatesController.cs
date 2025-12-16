@@ -1,23 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using EllinMMCProject.DAL;
+using EllinMMCProject.Models;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using EllinMMCProject.DAL;
-using EllinMMCProject.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace EllinMMCProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class GraduatesController : Controller
     {
-        private readonly AppDbContext _context;
+		private readonly IWebHostEnvironment _webHostEnvironment;
+		private readonly AppDbContext _context;
 
-        public GraduatesController(AppDbContext context)
+        public GraduatesController(AppDbContext context, IWebHostEnvironment webHostEnvironment)
         {
             _context = context;
+            _webHostEnvironment = webHostEnvironment;
         }
 
         // GET: Admin/Graduates
@@ -55,11 +58,29 @@ namespace EllinMMCProject.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Description,Position,Image")] Graduate graduate)
+        public async Task<IActionResult> Create([Bind("Id,Name,Description,Position,Image,formFile")] Graduate graduate)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(graduate);
+				if (graduate.formFile != null)
+				{
+					string uploadFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
+
+					if (!Directory.Exists(uploadFolder))
+						Directory.CreateDirectory(uploadFolder);
+
+					string uniqueFileName = Guid.NewGuid().ToString() + "_" + graduate.formFile.FileName;
+
+					string filePath = Path.Combine(uploadFolder, uniqueFileName);
+
+					using (var stream = new FileStream(filePath, FileMode.Create))
+					{
+						await graduate.formFile.CopyToAsync(stream);
+					}
+
+					graduate.Image = "/uploads/" + uniqueFileName;
+				}
+				_context.Add(graduate);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
