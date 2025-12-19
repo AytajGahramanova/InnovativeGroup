@@ -1,34 +1,40 @@
-﻿
-@{
-    ViewData["Title"] = "Create";
-    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+﻿@{
+	ViewData["Title"] = "Create";
+	Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
 
 @model GalleryProduct
 
-<div class="container mt-5">
-    <h2>Create Trainer</h2>
-    <form asp-action="Create" method="post" enctype="multipart/form-data">
-        <div class="mb-3">
-            <label asp-for="Title" class="form-label">Title</label>
-            <input asp-for="Title" class="form-control" />
-        </div>
-        <div class="mb-3">
-            <label asp-for="Description" class="form-label">Description</label>
-            <input asp-for="Description" class="form-control" />
-        </div>
-        <div class="mb-3">
-            <label asp-for="formFile" class="form-label">Image URL</label>
-            <input asp-for="formFile" class="form-control" />
-        </div>
-        <select name="selectOption">
+<h1>Create New Gallery</h1>
+<hr />
+	<div class="row">
+		<div class="col-md-8">
+			<div class="card shadow-sm border-0 rounded-3">
+				<div class="card-body p-4">
+					<form asp-action="Create" method="post" enctype="multipart/form-data">
+						<div class="mb-3">
+							<label asp-for="Title" class="form-label">Title</label>
+							<input asp-for="Title" class="form-control" />
+						</div>
+						<div class="mb-3">
+							<label asp-for="Description" class="form-label">Description</label>
+							<input asp-for="Description" class="form-control" />
+						</div>
+						<div class="mb-3">
+							<label asp-for="formFile" class="form-label">Image URL</label>
+							<input asp-for="formFile" class="form-control" />
+						</div>
+						<select name="selectOption">
 
-        @foreach (var item in ViewBag.Categories)
-            {
-            <option value="value">@item.Title</option>
-            }
-        </select>
+							@foreach (var item in ViewBag.Categories)
+							{
+								<option value="@item.Id">@item.Title</option>
+							}
+						</select>
 
-        <button type="submit" class="btn btn-primary mt-3">Save Trainer</button>
-    </form>
-</div>
+						<button type="submit" class="btn btn-primary">Save</button>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>

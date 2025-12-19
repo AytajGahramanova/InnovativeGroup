@@ -40,7 +40,7 @@
             @Html.DisplayNameFor(model => model.Image)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Image)
+            <img src="@Model.Image" style="width: 100%; max-width: 200px; height: 300px; object-fit: cover;" />
         </dd>
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.IsActive)
@@ -53,6 +53,8 @@
     <form asp-action="Delete">
         <input type="hidden" asp-for="Id" />
         <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
+        <a class="btn btn-md btn-outline-secondary shadow" asp-action="Index">
+            <i class="bi bi-arrow-left"></i> Back to List
+        </a>
     </form>
 </div>

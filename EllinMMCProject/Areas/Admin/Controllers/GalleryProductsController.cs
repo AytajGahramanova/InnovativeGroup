@@ -87,5 +87,54 @@ namespace EllinMMCProject.Areas.Admin.Controllers
             }
             return View(galleryProduct);
         }
-    }
+
+		public async Task<IActionResult> Details(int? id)
+		{
+			if (id == null)
+			{
+				return NotFound();
+			}
+
+			var galleryProduct = await _db.GalleryProducts
+				.FirstOrDefaultAsync(m => m.Id == id);
+			if (galleryProduct == null)
+			{
+				return NotFound();
+			}
+
+			return View(galleryProduct);
+		}
+
+		public async Task<IActionResult> Delete(int? id)
+		{
+			if (id == null)
+			{
+				return NotFound();
+			}
+
+			var galleryProduct = await _db.GalleryProducts
+				.FirstOrDefaultAsync(m => m.Id == id);
+			if (galleryProduct == null)
+			{
+				return NotFound();
+			}
+
+			return View(galleryProduct);
+		}
+
+		
+		[HttpPost, ActionName("Delete")]
+		[ValidateAntiForgeryToken]
+		public async Task<IActionResult> DeleteConfirmed(int id)
+		{
+			var galleryProduct = await _db.GalleryProducts.FindAsync(id);
+			if (galleryProduct != null)
+			{
+				_db.GalleryProducts.Remove(galleryProduct);
+			}
+
+			await _db.SaveChangesAsync();
+			return RedirectToAction(nameof(Index));
+		}
+	}
 }

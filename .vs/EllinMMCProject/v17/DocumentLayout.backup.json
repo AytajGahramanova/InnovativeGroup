@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\EllinMMCBackEnd-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44AECF1D-CDF0-489E-A0F1-31EC0491626E}|EllinMMCProject\\EllinMMCProject.csproj|c:\\users\\asus\\desktop\\ellinmmcbackend-main\\ellinmmcproject\\areas\\admin\\views\\academies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44AECF1D-CDF0-489E-A0F1-31EC0491626E}|EllinMMCProject\\EllinMMCProject.csproj|solutionrelative:ellinmmcproject\\areas\\admin\\views\\academies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44AECF1D-CDF0-489E-A0F1-31EC0491626E}|EllinMMCProject\\EllinMMCProject.csproj|c:\\users\\asus\\desktop\\ellinmmcbackend-main\\ellinmmcproject\\areas\\admin\\views\\stories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AECF1D-CDF0-489E-A0F1-31EC0491626E}|EllinMMCProject\\EllinMMCProject.csproj|solutionrelative:ellinmmcproject\\areas\\admin\\views\\stories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44AECF1D-CDF0-489E-A0F1-31EC0491626E}|EllinMMCProject\\EllinMMCProject.csproj|c:\\users\\asus\\desktop\\ellinmmcbackend-main\\ellinmmcproject\\areas\\admin\\views\\academies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44AECF1D-CDF0-489E-A0F1-31EC0491626E}|EllinMMCProject\\EllinMMCProject.csproj|solutionrelative:ellinmmcproject\\areas\\admin\\views\\academies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1227,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\EllinMMCBackEnd-main\\EllinMMCProject\\Areas\\Admin\\Views\\Academies\\Details.cshtml",
-              "RelativeDocumentMoniker": "EllinMMCProject\\Areas\\Admin\\Views\\Academies\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\EllinMMCBackEnd-main\\EllinMMCProject\\Areas\\Admin\\Views\\Academies\\Details.cshtml*",
-              "RelativeToolTip": "EllinMMCProject\\Areas\\Admin\\Views\\Academies\\Details.cshtml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\EllinMMCBackEnd-main\\EllinMMCProject\\Areas\\Admin\\Views\\Academies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EllinMMCProject\\Areas\\Admin\\Views\\Academies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\EllinMMCBackEnd-main\\EllinMMCProject\\Areas\\Admin\\Views\\Academies\\Delete.cshtml",
+              "RelativeToolTip": "EllinMMCProject\\Areas\\Admin\\Views\\Academies\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-16T20:55:37.725Z",
+              "WhenOpened": "2025-12-19T13:11:40.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\EllinMMCBackEnd-main\\EllinMMCProject\\Areas\\Admin\\Views\\Stories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EllinMMCProject\\Areas\\Admin\\Views\\Stories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\EllinMMCBackEnd-main\\EllinMMCProject\\Areas\\Admin\\Views\\Stories\\Delete.cshtml",
+              "RelativeToolTip": "EllinMMCProject\\Areas\\Admin\\Views\\Stories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T13:11:26.88Z",
               "EditorCaption": ""
             }
           ]

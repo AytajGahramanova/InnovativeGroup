@@ -5,11 +5,12 @@
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2 class="mb-0">Trainers List</h2>
+    <a asp-action="Create" class="btn btn-lg text-white btn-success shadow">
+        <i class="bi bi-plus-circle"></i> Create New Trainer
+    </a>
+</div>
 <table class="table">
     <thead>
         <tr>
@@ -25,7 +26,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.Sitat)
             </th>
-            <th></th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
@@ -35,7 +36,9 @@
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Image)
+                    <img src="~/@item.Image"
+                         alt="Trainer Image"
+                         style="width:500px; height:400px; object-fit:cover;" />
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Positions)
@@ -44,9 +47,20 @@
                 @Html.DisplayFor(modelItem => item.Sitat)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    <div class="d-grid gap-2">
+                        <a asp-action="Edit" asp-route-id="@item.Id"
+                           class="btn btn-lg btn-warning text-white shadow-sm">
+                            <i class="bi bi-pencil-square"></i> Edit
+                        </a>
+                        <a asp-action="Details" asp-route-id="@item.Id"
+                           class="btn btn-lg btn-info text-white shadow-sm">
+                            <i class="bi bi-eye"></i> Details
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@item.Id"
+                           class="btn btn-lg btn-danger shadow-sm">
+                            <i class="bi bi-trash"></i> Delete
+                        </a>
+                    </div>
             </td>
         </tr>
 }

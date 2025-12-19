@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using EllinMMCProject.DAL;
+using EllinMMCProject.Models;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using EllinMMCProject.DAL;
-using EllinMMCProject.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace EllinMMCProject.Areas.Admin.Controllers
 {
@@ -14,10 +15,12 @@ namespace EllinMMCProject.Areas.Admin.Controllers
     public class TrainersController : Controller
     {
         private readonly AppDbContext _context;
+		private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public TrainersController(AppDbContext context)
+		public TrainersController(AppDbContext context, IWebHostEnvironment webHostEnvironment)
         {
             _context = context;
+            _webHostEnvironment = webHostEnvironment;
         }
 
         // GET: Admin/Trainers
@@ -64,7 +67,28 @@ namespace EllinMMCProject.Areas.Admin.Controllers
         public async Task<IActionResult> Create(Trainer trainer, List<string> Topics)
         {
             if (!ModelState.IsValid)
-                return View(trainer);
+				{
+				if (trainer.formFile != null)
+				{
+					string uploadFolder = Path.Combine(_webHostEnvironment.WebRootPath, "uploads");
+
+					if (!Directory.Exists(uploadFolder))
+						Directory.CreateDirectory(uploadFolder);
+
+					string uniqueFileName = Guid.NewGuid().ToString() + "_" + trainer.formFile.FileName;
+
+					string filePath = Path.Combine(uploadFolder, uniqueFileName);
+
+					using (var stream = new FileStream(filePath, FileMode.Create))
+					{
+						await trainer.formFile.CopyToAsync(stream);
+					}
+
+					trainer.Image = "/uploads/" + uniqueFileName;
+				}
+				return View(trainer);
+            }
+                
 
             // Əgər topic-lər gəlirsə, TrainerTopics siyahısına əlavə et
             if (Topics != null && Topics.Count > 0)
